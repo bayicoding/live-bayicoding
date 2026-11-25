@@ -5,6 +5,7 @@ Tiap live punya folder sendiri: buka foldernya, ambil kodenya, coba jalankan sen
 
 | Tanggal | Proyek |
 |---|---|
+| 25-11-2026 | [Logika Dasar Python (req uliinaa) + If Else C++ (req ima)](2026-11-25-logika-dasar-python/) |
 | 25-11-2026 | [Kompleksitas Waktu & Ruang Python](2026-11-25-kompleksitas-python/) |
 | 25-11-2026 | [Form HTML + PHP (req N D U Y ‼️)](2026-11-25-form-php/) |
 | 25-11-2026 | [Dropdown Menu CSS (req lwi)](2026-11-25-dropdown-menu/) |
