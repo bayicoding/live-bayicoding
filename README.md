@@ -5,6 +5,7 @@ Tiap live punya folder sendiri: buka foldernya, ambil kodenya, coba jalankan sen
 
 | Tanggal | Proyek |
 |---|---|
+| 25-11-2026 | [Kompleksitas Waktu & Ruang Python](2026-11-25-kompleksitas-python/) |
 | 24-11-2026 | [Array & Rekursif Python](2026-11-24-kalkulator-c/) |
 | 23-11-2026 | [Kalkulator](2026-11-23-kalkulator/) |
 
